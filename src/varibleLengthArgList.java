@@ -8,24 +8,22 @@
 public class varibleLengthArgList {
     public static void main(String[] args) {
         /* INITIALIZING PHASE */
+        // create an array of integer values
         
-        // Initialize the 20-element array
         
         /* PROCESSING PHASE */
-        
-        // Use a for loop to loop throught the each iteration
-        // of the array list and assgin a random number for
-        // each value
-        
-        // Determine what is the smallest number and assign 
-        // that to its  own variable.
-        
-        // Determine what is the largest number and assign
-        // to its own variable.
+        // call the product method and store result
         
         /* TERMINATION PHASE */
         
         // display the out put
         
     } // end method main
+    
+    // create a method called `product` with a variable-length argument list
+    
+    // for each number in the array multiply the
+    // current number to the result
+    // return the final product
+    
 }//end method variableLegnthArgList
